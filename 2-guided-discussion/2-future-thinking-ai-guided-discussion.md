@@ -14,12 +14,12 @@ Template for Note Organization from Katie Liu ([Access](https://docs.google.com/
 
 
 
-* [Introduction](#heading=h.djgknepludeh)
-* [Discussion Summary: Relationship to Tech Companies](#heading=h.qh0hs3ej6hgd)
-* [Discussion Summary: Empowering Creativity](#heading=h.yggi3ynsupfm)
-* [Discussion Summary: Tools, Stewardship, Responsibility](#heading=h.pe5pakxko7ld)
-* [Discussion Summary: Newcomers and Guides: Getting Your Feet Wet](#heading=h.domvk9urmvz1)
-* [Resources](#heading=h.k17eoipn1b1g)
+* [**Introduction**](#introduction)
+* [**Discussion Summary: Relationship to Tech Companies**](#relationship-to-tech-companies)
+* [**Discussion Summary: Empowering Creativity**](#)
+* [**Discussion Summary: Tools, Stewardship, Responsibility**](#heading=h.pe5pakxko7ld)
+* [**Discussion Summary: Newcomers and Guides: Getting Your Feet Wet**](#heading=h.domvk9urmvz1)
+* [**Resources**](#heading=h.k17eoipn1b1g)
 
 
 ### Introduction
@@ -40,7 +40,7 @@ The subtopic discussion aimed to leave room for everyone to speak. The groups we
 Below is the [NotePad](http://docs.clinicopensourcearts.org/p/future-thinking) with notes taken during the discussion:
 
 
-![alt_text](images/image1.gif "image_tooltip")
+![Image description: 4 screenshots of the p5.js homepage in Spanish, Korean, Chinese, and Hindi.](../0-images/access-p5js-translation.png)
 
 
 ID: GIF screen capture scrolling through notes taken during the discussion, rows of colorful highlighted text.
