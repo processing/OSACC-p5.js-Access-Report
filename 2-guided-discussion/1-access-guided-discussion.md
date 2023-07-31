@@ -40,10 +40,6 @@ Below are discussion summaries from four groups.
 [Qianqian Ye](https://qianqian-ye.com/), current p5.js project lead working on improving the accessibility of the software, led a discussion on accessible open-source software. Accessible open-source software can be hard to define. One definition shared by a group member was “access = providing an opportunity for communities who are historically excluded, to create non-western focused software, and to make translation possible.” 
 
 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![Image description: 4 screenshots of the p5.js homepage in Spanish, Korean, Chinese, and Hindi.](../0-images/access-p5js-translation.png)
 
 
