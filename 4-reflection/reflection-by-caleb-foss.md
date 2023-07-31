@@ -1,4 +1,4 @@
-**Challenges to Impactful Actions Towards Increased Access**
+## Challenges to Impactful Actions Towards Increased Access
 
 Caleb Foss
 
