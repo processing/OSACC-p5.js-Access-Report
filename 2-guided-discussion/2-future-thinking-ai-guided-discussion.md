@@ -16,10 +16,10 @@ Template for Note Organization from Katie Liu ([Access](https://docs.google.com/
 
 * [**Introduction**](#introduction)
 * [**Discussion Summary: Relationship to Tech Companies**](#relationship-to-tech-companies)
-* [**Discussion Summary: Empowering Creativity**](#)
-* [**Discussion Summary: Tools, Stewardship, Responsibility**](#heading=h.pe5pakxko7ld)
-* [**Discussion Summary: Newcomers and Guides: Getting Your Feet Wet**](#heading=h.domvk9urmvz1)
-* [**Resources**](#heading=h.k17eoipn1b1g)
+* [**Discussion Summary: Empowering Creativity**](#empowering-creativity)
+* [**Discussion Summary: Tools, Stewardship, Responsibility**](#tools-,-stewardship-,-responsibility)
+* [**Discussion Summary: Newcomers and Guides: Getting Your Feet Wet**](#newcomers-and-guides-:-getting-your-feet-wet)
+* [**Resources**](#resources)
 
 
 ### Introduction
@@ -40,10 +40,8 @@ The subtopic discussion aimed to leave room for everyone to speak. The groups we
 Below is the [NotePad](http://docs.clinicopensourcearts.org/p/future-thinking) with notes taken during the discussion:
 
 
-![Image description: 4 screenshots of the p5.js homepage in Spanish, Korean, Chinese, and Hindi.](../0-images/access-p5js-translation.png)
 
-
-ID: GIF screen capture scrolling through notes taken during the discussion, rows of colorful highlighted text.
+![Image description: GIF screen capture scrolling through notes taken during the discussion, rows of colorful highlighted text..](../0-images/ai-document-scroll.gif)
 
 Below are discussion summaries from four groups.
 
@@ -59,19 +57,19 @@ Below are discussion summaries from four groups.
 
 The discussion started off with a conversation on the exploitation of “open source” culture by corporate platforms. One example is how some tech companies utilize the umbrella term "open-source" as their sole claim to ethical practices and shy away from further progress in fostering a more inclusive and supportive culture. Another example is the “copyleft movement” where projects falsely use the term “open source.” In situations where corporate platforms utilize open-source platforms for profit, this results in the labor of open-source contributors being exploited. This led to a discussion about the importance of licensing as a way to protect creativity and the labor of Open Source contributors— who are often people in marginalized/underrepresented communities. One successful example of licensing can be seen with the Open Source Initiative.
 
-[Open Source Initiative](https://opensource.org/osd/)) provides clear guidelines on the definition of Open Source Licensing.
 
-ID: Screenshot of Open Source Initiative website. White and gray background with dark gray box header labeled “The Open Source Definition.” Underneath is text labeled "Introduction” and a list of guides to define “Open Source.”
+
+![Image description: Screenshot of Open Source Initiative website. White and gray background with dark gray box header labeled “The Open Source Definition.” Underneath is text labeled "Introduction” and a list of guides to define “Open Source.”](../0-images/ai-osi.png)
+[Open Source Initiative](https://opensource.org/osd/) provides clear guidelines on the definition of Open Source Licensing.
 
 Additionally, the group worried about the consequences of the “openness” in open source culture and questioned the right of corporate companies or AI tools to collect data “just because it was open online.” To combat the exploitation of data collection, the group shared tools such as “Spawning AI” and “Have I Been Trained?” to provide APIs that “respect data privacy and consent” by allowing artists to “opt-out” of datasets used to train AI. 
 
 
-![alt_text](images/image2.png "image_tooltip")
+
+![Image description: Screenshot of two websites side by side. Left, a gray background website with “Spawning AI tools for artists. Made my artist.” Right, a black background website mimicking a web search layout labeled “Have I Been Trained?”](../0-images/ai-api.png)
 
 
 [SpawningAI](https://spawning.ai) &[ Have I Been Trained?](https://haveibeentrained.com) Provide APIs that respect artist work and privacy.
-
-ID: Screenshot of two websites side by side. Left, a gray background website with “Spawning AI tools for artists. Made my artist.” Right, a black background website mimicking a web search layout labeled “Have I Been Trained?”
 
 Exploring the concept of “extraction,” the group discussed methods of extricating oneself from these systems that they heavily depend on for their work. The group discussed the potential impacts AI can have on their work life. One negative possibility is that AI would reduce work opportunities or reduce pay for workers. On the other hand, if AI is used to assist workers, similar to the way a 4-day work week was successful in the UK, AI can possibly provide more leisure in the workspace.
 
@@ -92,12 +90,10 @@ The discussion started off with thinking through the positive aspects of AI and 
 [Ozi Chukwukeme](https://ozioma.xyz/), a Nigerian-American creative technologist, designer, and web developer, shared about ml5js. ML5.js is a library that “provides access to machine learning algorithms and models in the browser” to make machine learning approachable for a broad audience of artists, creative coders, and students. Ozi shares her experience with Google’s Teachable Machine and how it is an amazing tool to help folks enter the ML space as it demystifies Machine Learning by providing transparency on the ML process.
 
 
-![alt_text](images/image3.png "image_tooltip")
 
+![Image description: Screenshot of Teachable Machine website, a page with a gray background and in blue letters “Teachable Machine” on the top left. Centered is the bold text “New Project” with three large square box options labeled “Image Project,” “Audio Project,” and “Pose Project.”](../0-images/ai-tm.png)
 
-Google’s Teachable Machine allows people to train their own custom ML models.
-
-ID: Screenshot of Teachable Machine website, a page with a gray background and in blue letters “Teachable Machine” on the top left. Centered is the bold text “New Project” with three large square box options labeled “Image Project,” “Audio Project,” and “Pose Project.”
+[Google’s Teachable Machine](https://teachablemachine.withgoogle.com/) allows people to train their own custom ML models.
 
 As the group looked at fun examples such as “Harry Potter Balenciaga”— AI generated video of Harry Potter characters wearing Balenciaga, and “Text.Theatre”— AI fanfiction generator, the group discussed how spending time with a tool can give you more ideas. Looking into more examples, the group found that AI tools are generally a win for smaller teams and studios as they can assist with the creative process. 
 
@@ -114,24 +110,22 @@ As the group looked at fun examples such as “Harry Potter Balenciaga”— AI 
 The discussion opened with many concerns the group had with AI. Examples included image stealing, the generation of limited aesthetics, harmful labor practices, and lack of transparency. According to a TIME article, in developing ChatGPT, OpenAI has long exploited laborers in Kenya through long hours of work, low pay, and exposure to sensitive content.
 
 
-![alt_text](images/image4.png "image_tooltip")
+
+![Image description: Screenshot of TIME article, website with white background and title “Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic.” Underneath is a rectangular image generated by AI with the prompt “A seemingly endless view of African workers at desks in front of computer screens in a printmaking style.”](../0-images/ai-time.png)
 
 
 [TIME](https://time.com/6247678/openai-chatgpt-kenya-workers/) shares a quotation by Andrew Strait, an AI ethicist, “ChatGPT and other generative models are not magic – they rely on massive supply chains of human labor and scraped data, much of which is unattributed and used without consent.”
-
-ID: Screenshot of TIME article, website with white background and title “Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic.” Underneath is a rectangular image generated by AI with the prompt “A seemingly endless view of African workers at desks in front of computer screens in a printmaking style.”
 
 When discussing the group's goals with AI, many expressed desires for better labor practices, licensing, and expansion of accessibility. One of the discussion participants expressed how “cheap AI is scary” and hopes for AI to be expensive— for institutions to pay for— so data training laborers and content moderators can be properly trained and compensated while keeping AI accessible. Another participant shared an idea of how AI tools can be created with consideration for their environmental costs. In that discussion, the following questions were proposed: Would our relationship change if you had a limit of 10 prompts per year or a carbon cost? How can we acknowledge the weight of what it means to use the tool, even if it is free? 
 
 The group came up with a metaphor: “Comparing these systems to fast fashion, the right to use the tool is not a given. Just because it's there, do we have the right to use it, and how does that come at the cost of those making it?” With a collective understanding of how sharing and creating space for alternative AI tools is important, the group looked at resource lists like the “Intersectional AI Toolkit” started by Sarah Ciston. This toolkit serves as a platform that “gathers ideas, ethics, and tactics for more ethical, equitable tech” and offers an “approachable guide(s) to both intersectionality and AI.”
 
 
-![alt_text](images/image5.png "image_tooltip")
+
+![Image description: Screenshot of Intersectional AI Toolkit website, a page with a white background, blue and purple text. The top left includes a logo of two paper clips making a heart shape.](../0-images/ai-iait.png)
 
 
 Created with the help of many contributors, the[ Intersectional AI Toolkit](https://intersectionalai.miraheze.org/wiki/LoveNotes) is an “ ever-growing master list of projects, tools, resources to learn from.”
-
-ID: Screenshot of Intersectional AI Toolkit website, a page with a white background, blue and purple text. The top left includes a logo of two paper clips making a heart shape.
 
 
 ---
@@ -146,12 +140,10 @@ ID: Screenshot of Intersectional AI Toolkit website, a page with a white backgro
 The discussion started off with participants answering the question, “What made you consider learning/using AI?” Many expressed that their interest in AI was sparked due to hype, boundary exploration, and the leisure of non-human interaction; but also as a way to examine the impacts of new technology and test the “visibility” of these machines.
 
 
-![alt_text](images/image6.png "image_tooltip")
 
+![Image description: Screenshot of Medium article, webpage with white background and article title in bold “Towards Trans-Inclusive AI” and subtitle in gray “The trouble with Gender Binary Algorithms.”](../0-images/ai-trans-inclusive.png)
 
 [Medium](https://towardsdatascience.com/towards-trans-inclusive-ai-a4abe9ad4e62) article by Zachary Hay shares how current AI models can only think like their designers, “with a binary, heteronormative conception of gender.”
-
-ID: Screenshot of Medium article, webpage with white background and article title in bold “Towards Trans-Inclusive AI” and subtitle in gray “The trouble with Gender Binary Algorithms.”
 
 In response to the “pace of AI,” the group agreed that the pace is entirely being set by big tech while legal regulations and ethical discussions are often compromised to pump out these tools to the public. A question was proposed “Are there organizations capable of doing this task at an equitable rate?” The group also identified how cultural artifacts are aggregated in a viral way due to AI.
 
