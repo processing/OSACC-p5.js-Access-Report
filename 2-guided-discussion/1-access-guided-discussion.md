@@ -43,7 +43,7 @@ Below are discussion summaries from four groups.
 ![Image description: 4 screenshots of the p5.js homepage in Spanish, Korean, Chinese, and Hindi.](../0-images/access-p5js-translation.png)
 
 
-p5.js has been translated into 4 languages so far and continuing to expand
+p5.js has been translated into 4 languages so far and continuing to expand.
 
 In the discussion, some good practices participants shared for accessible open source software were publishing a strategic plan for others to read and borrow for their own projects, sharing work transparently, and including documentation in code. Another important practice discussed is making tutorials and documentation. Some participants shared Marlin and Arduino as being good examples of this. 
 
