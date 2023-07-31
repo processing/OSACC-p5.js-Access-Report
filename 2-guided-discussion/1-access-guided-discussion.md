@@ -21,19 +21,11 @@ Note organized by Katie Liu.
 At the Open Source Arts Contributor Conference in 2023, the guided discussion session on “Access” aimed to discuss the importance and role of access and accessibility in software, the web, and creative involvement. Over 30 OSACC conference attendees participated in this discussion.  
 
 The access-guided discussion started with a 5-minute introduction, followed by 45 minutes for smaller group discussions and note-taking in 4 different subtopics. The subtopics for the access guided workshop were accessible open source software, web accessibility, data sovereignty + community access, creative access, and access and education. Some grounding questions given as a starting point for the subtopics groups included asking why accessibility is important, what stake we each have in access, what we are each doing to promote accessibility, and what “access” means to each of us. The subtopic discussion aimed to leave room for everyone to speak. The groups were encouraged to embrace awkward silences, be kind and generous, and share space. The shared document was used to take notes or as a way to contribute to participants who preferred not to speak out loud. The discussion ended with a 10-minute closing share-out with representatives from each subtopic group. 
-
+Alt text: recording of the notes document from guided access discussion being scrolled through
 Below is the[ notepad](https://pad.riseup.net/p/r.120ee5e494aa0adca69ebfd3b1a76dac) with live notes taken during the discussion:
 
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.gif "image_tooltip")
-
-
-Alt text: recording of the notes document from guided access discussion being scrolled through
-
+![Image description: recording of the notes document from guided access discussion being scrolled through.](0-images/access-document-scroll.gif)
 Below are discussion summaries from four groups.
 
 
