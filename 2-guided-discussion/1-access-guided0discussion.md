@@ -9,12 +9,12 @@ Facilitated by Qianqian Ye, Nat Decker, Bobby Joe Smith III, Sammie Veeler, and 
 Note organized by Katie Liu.
 
 **Table of Contents:**
-* i. [**Introduction**](#i-Introduction)
-* ii. [**Accessible Open Source Software**](#ii-Accessible-Open-Source-Software)
-* iii. [**Web Accessibility**](#iii-Web-Accessibility)
-* iv. [**Data Sovereignty + Community Access**](#iv-Data-Sovereignty+CommunityAccess)
-* v. [**Creative Access**](#v-Creative-Access)
-* vi. [**Resources**](#vi-resources)
+* [**Introduction**](#introduction)
+* [**Accessible Open Source Software**](#accessible-open-source-software)
+* [**Web Accessibility**](#web-accessibility)
+* [**Data Sovereignty + Community Access**](#data-sovereignty+community-access)
+* [**Creative Access**](#creative-access)
+* [**Resources**](#resources)
 
 ### Introduction
 
@@ -82,7 +82,7 @@ To improve accessibility in projects such as source codes, documentation, and ou
 
 ### Web Accessibility
 
-**Discussion Lead: Sammie Veeler**
+**Discussion Lead:** Sammie Veeler
 
 [Sammie Veller](https://miss-sammie.neocities.org/), the co-founder of an accessible online art platform New Art City, led a discussion about web accessibility. Web accessibility is oftentimes oversimplified to alt text. However, as many group participants pointed out, alt text is only one vector. Cognitive accessibility brings its own set of challenges. With this in mind, the web accessibility discussion brought forth many questions and curiosities. Participants asked, when discussing alt text, how do you write alt text for interactions or data visualizations? What are the implications for social media such as Instagram and Twitter pushing the responsibility for alt text on the end user. 
 
@@ -134,7 +134,7 @@ Accessibility is often viewed in the lens of compliance, as an annoyance after t
 
 ### Data Sovereignty + Community Access
 
-**Discussion Lead: **Bobby Joe Smith III
+**Discussion Lead:** Bobby Joe Smith III
 
 
 
@@ -165,7 +165,7 @@ However, one profound statement was created; problems are the start of a design 
 
 ### Creative Access
 
-**Discussion Lead: **Nat Decker
+**Discussion Lead:** Nat Decker
 
 [Nat Decker](https://www.instagram.com/crip_fantasy/), an access worker and artist interested in the politics, aesthetics, and narratives of queer disabled experience, led a discussion on creative access. It is important to consider access as a foundational design element to a project–part of the concept from the beginning; not an afterthought, but a forethought. Many discussion participants have observed a radical shift to rethink structures of our spaces and projects that are accessible. As artists, accessibility should not be a checklist, but made into a creative prompt. In such cases, artists are encouraged to embrace slowness. There are currently artists working with experimental accessibility and the aesthetics of access are interesting to consider. When one lacks access the most is when one needs to be most creative. One example shared was queer Korean Sign Language which includes tools for hacking/re-signing language that can be oppressive. Another example is VR haptics created for blind users at NYU. 
 
@@ -191,7 +191,7 @@ In discussing this topic, some related topics participants mentioned were digita
 
 ### Access and Education 
 
-**Discussion Lead: **Lauren Mitchell
+**Discussion Lead:** Lauren Mitchell
 
  \
 Lauren Mitchell, Director of Makerspace and a computer science teacher at an all-girls high school in NYC, led a discussion on access and education. Accessibility hurdles within education begin with hiring educators. There are gates on who can even teach. And even after hiring, what determines who are the right people to design for accessibility? Discussion participants agreed that treating accessibility as a standard practice, such as subtitles and proper tags to websites, provides broader benefits. It is important to be intentional in programming and designing at the beginning. This approach was even used in designing the OSACC Education Discussion. 
@@ -219,9 +219,6 @@ Discussion participants exchanged ideas on guiding principles to consider when d
 ### Resources
 
 **Checklists and Guides:**
-
-
-
 * Auditing: [https://www.a11yproject.com/checklist/](https://www.a11yproject.com/checklist/)
 * Checklist for Web Content Accessibility Guidelines: [https://www.a11yproject.com/checklist/](https://www.a11yproject.com/checklist/)
 * Access Guide: [https://www.accessguide.io/](https://www.accessguide.io/)
@@ -235,9 +232,6 @@ Discussion participants exchanged ideas on guiding principles to consider when d
 * How to write good alt-text: [https://accessibility.huit.harvard.edu/describe-content-images](https://accessibility.huit.harvard.edu/describe-content-images)
 
 **Projects:**
-
-
-
 * Work by The CHROME Lab, a laboratory in Mechanical Engineering at Saint Louis University: [https://sites.google.com/slu.edu/gorlewicz-lab/research-projects](https://sites.google.com/slu.edu/gorlewicz-lab/research-projects) 
 * Work by Machine Agency in the Human Centered Design and Engineering at University of Washington: [https://depts.washington.edu/machines/](https://depts.washington.edu/machines/)
 * Queer Korean Sign Language: [https://deafqueerkor.org/?ckattempt=1](https://deafqueerkor.org/?ckattempt=1)
@@ -246,16 +240,10 @@ Discussion participants exchanged ideas on guiding principles to consider when d
 * Low-cost, open source eye-tracking system that will allow ALS patients to draw using just their eye: [https://eyewriter.org/](https://eyewriter.org/)
 
 **Recommended books:**
-
-
-
 * What Can a Body Do?: [https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/](https://www.penguinrandomhouse.com/books/561049/what-can-a-body-do-by-sara-hendren/)
 * Seeing Like a Computer: [https://www.unknownunknowns.org/product/seeing-like-a-computer](https://www.unknownunknowns.org/product/seeing-like-a-computer)
 
 **Code editors:**
-
-
-
 * Replit: Write code with Ghostwriter, an AI-powered pair programmer: [https://replit.com/~](https://replit.com/~)
 * Collaborative live-coding vj environment for p5.js: [https://teddavis.org/p5live/](https://teddavis.org/p5live/)
 * P5js Mobile Editor: [https://www.shujuuu.com/p5js-mobile-editor](https://www.shujuuu.com/p5js-mobile-editor)
