@@ -26,14 +26,7 @@ Template for Note Organization from Katie Liu ([Access](https://docs.google.com/
 
 The "Future Thinking and AI" discussion session at the Open Source Arts Contributor Conference in 2023 aimed to explore the transformative potential and risks associated with AI and society. As artists, programmers, and scholars, discussion participants examined AI tools and tech culture critically to reimagine possibilities for a more inclusive future.
 
-The Future Thinking/AI guided discussion started with a 5-minute introduction, followed by 45 minutes for smaller group discussions and note-taking in 4 different subtopics. The subtopics for the Future Thinking/AI guided workshop were:
-
-
-
-* Relationship to Tech Companies
-* Empowering Creativity
-* Tools, Stewardship, Responsibility
-* Newcomers and Guides: Getting Your Feet Wet
+The Future Thinking/AI guided discussion started with a 5-minute introduction, followed by 45 minutes for smaller group discussions and note-taking in 4 different subtopics. The subtopics for the Future Thinking/AI guided workshop were: Relationship to Tech Companies, Empowering Creativity, Tools, Stewardship, Responsibility, Newcomers and Guides: Getting Your Feet Wet.
 
 The subtopic discussion aimed to leave room for everyone to speak. The groups were encouraged to embrace awkward silences, be kind and generous, and share space. The shared document was used to take notes or as a way to contribute to participants who preferred not to speak out loud. The discussion ended with a 10-minute closing share-out with representatives from each subtopic group. 
 
@@ -81,7 +74,7 @@ To wrap up the discussion, the group shared their aspirations for a healthier re
 
 ### Empowering Creativity
 
-**Discussion Lead: **Cassie Tarakajian
+**Discussion Lead:** Cassie Tarakajian
 
 [Cassie Tarakajian](https://cassietarakajian.com/current-projects)– creator and mentor for the p5.js Editor, and team member of Magenta at Google Research, led a discussion on the intersection of creativity, ethics, and AI/ML.
 
@@ -103,7 +96,7 @@ As the group looked at fun examples such as “Harry Potter Balenciaga”— AI 
 
 ### Tools, Stewardship, Responsibility
 
-**Discussion Lead: **Sarah Ciston
+**Discussion Lead:** Sarah Ciston
 
 [Sarah Ciston](https://sarahciston.com)— poet programmer, Ph.D. candidate at USC Media Arts + Practice and named “2023 AI Newcomer” by the German Society for Computer Science, led a discussion on people’s relationships to individual AI tools by examining the emotional reaction to tools, thinking through guidelines and brainstorming goals for these tools.
 
@@ -133,7 +126,7 @@ Created with the help of many contributors, the[ Intersectional AI Toolkit](http
 
 ### Newcomers and Guides: Getting Your Feet Wet
 
-**Discussion Lead: **Alm (Alice) Chung
+**Discussion Lead:** Alm (Alice) Chung
 
 [Alm (Alice) Chung](https://almchung.github.io/)—media artist, a researcher at UCSD, and contributor to the p5.js Friendly Errors System, led the discussion on people’s introduction to AI by examining people’s curiosity about the tool, the current tech landscape, and personal usage of AI.
 
