@@ -1,4 +1,4 @@
-##OSACC Reflection
+## OSACC Reflection
 Kenneth Lim
 
 Being a contributor based in London, it isn’t very often that I get to meet other contributors in person. In fact the last time this happened, the world probably seemed like a completely different place, that was back in summer of 2019 for the p5.js contributor conference held at Carnegie Mellon University in Pittsburgh, PA. What is reassuring is that the energy, approachability, and positivity of the open source software for the arts community hasn’t changed and continues to be massively welcoming and inspiring. At the same time it is equally if not more inspiring to see contributors to many different projects from many different countries around the world joining the conference and bringing in their diverse perspectives of what open source means to them.
