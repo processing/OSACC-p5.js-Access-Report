@@ -28,7 +28,6 @@ Below is the[ notepad](https://pad.riseup.net/p/r.120ee5e494aa0adca69ebfd3b1a76d
 ![Image description: recording of the notes document from guided access discussion being scrolled through.](0-images/access-document-scroll.gif)
 Below are discussion summaries from four groups.
 
-
 ---
 
 
@@ -43,12 +42,10 @@ Below are discussion summaries from four groups.
 <p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.png "image_tooltip")
+![Image description: 4 screenshots of the p5.js homepage in Spanish, Korean, Chinese, and Hindi.](OSACC-p5.js-Access-Report/0-images/access-p5js-translation.png)
 
 
 p5.js has been translated into 4 languages so far and continuing to expand
-
-Alt text: 4 screenshots of the p5.js homepage in Spanish, Korean, Chinese, and Hindi
 
 In the discussion, some good practices participants shared for accessible open source software were publishing a strategic plan for others to read and borrow for their own projects, sharing work transparently, and including documentation in code. Another important practice discussed is making tutorials and documentation. Some participants shared Marlin and Arduino as being good examples of this. 
 
