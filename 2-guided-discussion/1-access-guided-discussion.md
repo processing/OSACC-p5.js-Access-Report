@@ -10,10 +10,10 @@ Note organized by Katie Liu.
 
 **Table of Contents:**
 * [**Introduction**](#introduction)
-* [**Accessible Open Source Software**](#accessible-open-source-software)
-* [**Web Accessibility**](#web-accessibility)
-* [**Data Sovereignty + Community Access**](#data-sovereignty+community-access)
-* [**Creative Access**](#creative-access)
+* [**Disucssion Summary: Accessible Open Source Software**](#accessible-open-source-software)
+* [**Disucssion Summary: Web Accessibility**](#web-accessibility)
+* [**Disucssion Summary: Data Sovereignty + Community Access**](#data-sovereignty+community-access)
+* [**Disucssion Summary: Creative Access**](#creative-access)
 * [**Resources**](#resources)
 
 ### Introduction
