@@ -18,7 +18,7 @@ Template for Note Organization from Katie Liu ([Access](https://docs.google.com/
 * [**Discussion Summary: Relationship to Tech Companies**](#relationship-to-tech-companies)
 * [**Discussion Summary: Empowering Creativity**](#empowering-creativity)
 * [**Discussion Summary: Tools, Stewardship, Responsibility**](#tools-,-stewardship-,-responsibility)
-* [**Discussion Summary: Newcomers and Guides: Getting Your Feet Wet**](#newcomers-and-guides-:-getting-your-feet-wet)
+* [**Discussion Summary: Newcomers and Guides: Getting Your Feet Wet**](#newcomers-and-guides:-getting-your-feet-wet)
 * [**Resources**](#resources)
 
 
