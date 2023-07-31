@@ -25,7 +25,7 @@ Alt text: recording of the notes document from guided access discussion being sc
 Below is the[ notepad](https://pad.riseup.net/p/r.120ee5e494aa0adca69ebfd3b1a76dac) with live notes taken during the discussion:
 
 
-![Image description: recording of the notes document from guided access discussion being scrolled through.](0-images/access-document-scroll.gif)
+![Image description: recording of the notes document from guided access discussion being scrolled through.](.../0-images/access-document-scroll.gif)
 Below are discussion summaries from four groups.
 
 ---
@@ -42,7 +42,7 @@ Below are discussion summaries from four groups.
 <p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![Image description: 4 screenshots of the p5.js homepage in Spanish, Korean, Chinese, and Hindi.](OSACC-p5.js-Access-Report/0-images/access-p5js-translation.png)
+![Image description: 4 screenshots of the p5.js homepage in Spanish, Korean, Chinese, and Hindi.](.../OSACC-p5.js-Access-Report/0-images/access-p5js-translation.png)
 
 
 p5.js has been translated into 4 languages so far and continuing to expand
