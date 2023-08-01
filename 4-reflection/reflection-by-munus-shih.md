@@ -22,7 +22,7 @@ The library was developed with these concepts in mind, aiming to make zine-codin
 I came to realize the similarity between the sociopolitical landscape of open-source movements and the fight for freedom of expression at OSACC. Just like zine-making emerged as a means to challenge censorship and amplify marginalized voices, the open-source art community has also fostered a space where creativity, collaboration, and innovation can thrive outside the confines of proprietary control.
 
 
-![Image description: Image description: Documentation of zine-making workshop (right image), a stack of paper next to 5 folded zines with black cover. Processing Catalog (left image), a hand holding up a book with purple pages, a black rectangular image on the top and black text.](../0-images/munus1.png)
+![Image description: Image description: Documentation of zine-making workshop (right image), a stack of paper next to 5 folded zines with black cover. Processing Catalog (left image), a hand holding up a book with purple pages, a black rectangular image on the top and black text.](../0-images/munus2.png)
 
 
 **Fig. Documentation of zine-making workshop (right) and Processing Catalog (left) at OSACC**
