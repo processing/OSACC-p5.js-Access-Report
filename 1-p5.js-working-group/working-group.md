@@ -8,6 +8,8 @@ Working groups organized by p5.js Project Lead [Qianqian Ye](https://qianqian-ye
 
 Notes organized by [Karen Abe](https://karenabe.com)
 
+
+
 **Table of Contents:**
 * [Introduction](#introduction)
 * [Working Group: Prioritizing Access & Updating p5.js Community Statement / Code of Conduct / p5.js Definition](#)
@@ -104,7 +106,10 @@ The group reflected on the process of translating documents for the Processing F
 **Led by** Alm Chung, Kenneth Lim, Dave Pagurek
 
 **Reference Documents**
-* [p5.js Issue / Pull Request Tracking Guideline](https://docs.google.com/document/d/1bJBysHudrtX8tgA7I5DQjWBgMuFR1KrzlGlOu3CC52M/edit)
+
+[p5.js Issue / Pull Request Tracking Guideline](https://docs.google.com/document/d/1bJBysHudrtX8tgA7I5DQjWBgMuFR1KrzlGlOu3CC52M/edit)
+
+
 
 
 [Alm (Alice) Chung](https://almchung.github.io/), [Kenneth Lim](https://limzykenneth.com/), and [Dave Pagurek](https://www.davepagurek.com/) led the discussion on the current p5.js issue workflow, ways for better Pull Request tracking, and code documentation.
