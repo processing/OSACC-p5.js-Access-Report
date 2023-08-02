@@ -12,10 +12,10 @@ Notes organized by [Karen Abe](https://karenabe.com)
 
 **Table of Contents:**
 * [Introduction](#introduction)
-* [Working Group: Prioritizing Access & Updating p5.js Community Statement / Code of Conduct / p5.js Definition](#)
-* [Working Group: Open Source Software Translation](#)
-* [Working Group: p5.js GitHub Issues](#)
-* [Working Group: Reducing Barriers to Entry for Learning]()
+* [Working Group: Prioritizing Access & Updating p5.js Community Statement / Code of Conduct / p5.js Definition](#prioritizing-access-&-updating-p5.js-community-statement/code-of-conduct/p5.js-definition)
+* [Working Group: Open Source Software Translation](#open-source-software-translation)
+* [Working Group: p5.js GitHub Issues](#p5.js-gitHub-issues)
+* [Working Group: Reducing Barriers to Entry for Learning](#reducing-barriers-to-entry-for-learning)
 
 
 ### **Introduction**
