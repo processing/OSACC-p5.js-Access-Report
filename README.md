@@ -25,10 +25,10 @@ More takeaways will be added shortly.
 The 2023 OSSACC in Denver, Colorado was a project of the Clinic for Open Source Arts (COSA) and the Processing Foundation.
 
 #### Event Co-Organizers:
- * Chris Coleman
- * Kate Hollenbach
- * Qianqian Ye
- * Shawné Michaelain Holloway
+ * [Chris Coleman](https://digitalcoleman.com/)
+ * [Kate Hollenbach](https://www.katehollenbach.com/)_
+ * [Qianqian Ye](http://qianqianye.com)
+ * [Shawné Michaelain Holloway](https://shawnemichaelainholloway.com/)
  * Xin Xin
  * Tsige Tafesse
 
