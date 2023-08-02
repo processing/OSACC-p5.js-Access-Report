@@ -6,7 +6,7 @@ April 14-16, University of Denver
 
 Working groups organized by p5.js Project Lead [Qianqian Ye](https://qianqian-ye.com/)
 
-Notes organized by [Karen Abe](www.karenabe.com)
+Notes organized by [Karen Abe](https://karenabe.com)
 
 **Table of Contents:**
 * [Introduction](#introduction)
@@ -47,22 +47,28 @@ Below are discussion summaries from five groups.
 
 ### **Prioritizing Access & Updating p5.js Community Statement / Code of Conduct / p5.js Definition**
 
-**Led by **evelyn masso, Sonia Choi, Nat Decker, Bobby Joe Smith III, Sammie Veeler, Xin Xin
+**Led by** evelyn masso, Sonia Choi, Nat Decker, Bobby Joe Smith III, Sammie Veeler, Xin Xin
 
 **Referenced Documents**
+* [p5.js Contribution Working Doc](https://docs.google.com/document/d/1hDvrkLhCZsYRa5ilCT6yLtqIT0e-FqVH0i7zDtnsPJA/edit#heading=h.qxv2zyotehr)
+* [p5.js Community Statement , Access Statement Working Doc](https://docs.google.com/document/d/1Yno4QOf30wv8FcItu78_LkcHlVYHgl0LZEM2tz6BUZ4/edit)
+* [p5.js is...Working Doc](https://docs.google.com/document/d/1dMAg4EuumVno27jEQnujlvjXtbj6lkgpXmGEkpWDYlM/edit#heading=h.qxv2zyotehr)
 
+This joint working group discussed ways to make contributing to p5.js more accessible, brainstormed a new definition of p5.js, and collectively rewrote the p5.js Community Statement and Code of Conduct. Although the working group did not reach the completion of a definitive definition or revised statement, the conversations helped shape the organization's intentions in moving forward.
+
+When discussing the accessibility of contributing to p5.js the group put together the [p5.js Contribution Working Doc](https://docs.google.com/document/d/1hDvrkLhCZsYRa5ilCT6yLtqIT0e-FqVH0i7zDtnsPJA/edit#heading=h.qxv2zyotehr). The document lists places where p5.js contribution methods are mentioned, forms of contribution (code & non-code contribution), as well as the language that is used to describe contribution work. The group discussed ways to consolidate some of the informati
 
 
 ![Image description: GIF screen capture scrolling through a document. Lines of bullet point text and screenshots of various websites are included.](../0-images/wg-scroll2.gif)
 
 
-The  includes screenshots and examples of places p5.js contribution work is described.
+The [p5.js Contribution Working Doc](https://docs.google.com/document/d/1hDvrkLhCZsYRa5ilCT6yLtqIT0e-FqVH0i7zDtnsPJA/edit#heading=h.qxv2zyotehr) includes screenshots and examples of places p5.js contribution work is described.
 
 ID: GIF screen capture scrolling through a document. Lines of bullet point text and screenshots of various websites are included.
 
 In updating the p5.js Community Statement / Code of Conduct, the group started off with questions about the current p5.js Access and Community Statement. Through conversation, the group discussed possibilities of combining the p5.js Access and Community Statements as a comprehensive document as well as aligning the p5.js Community Statement to the Process Foundation’s practices. Furthermore, the group discussed the possibility of having these statements as a living document by having them routinely updated and open for community suggestions. The group navigated the compilations of including explicit language– such as terms like anti-racist and anti-capitalist– in their statements and the need for transparency about how the organization's values are translated into action.
 
-Additionally, the group also had a share-out session on the topic “p5.js is…” as a way to develop a more succinct definition for p5.js to be used across all platforms. The  provides a list of current definitions used for p5.js across various websites and social media platforms. Then, the document listed questions to push contributors through the history, purpose, and tone that could be included in this new definition. As an exercise, contributors each took a shot at writing a definition for p5.js. The rest of the working group time was dedicated to the collaborative editing of statements. The document can be found here: . 
+Additionally, the group also had a share-out session on the topic “p5.js is…” as a way to develop a more succinct definition for p5.js to be used across all platforms. The [p5.js is...Working Doc](https://docs.google.com/document/d/1dMAg4EuumVno27jEQnujlvjXtbj6lkgpXmGEkpWDYlM/edit#heading=h.qxv2zyotehr) provides a list of current definitions used for p5.js across various websites and social media platforms. Then, the document listed questions to push contributors through the history, purpose, and tone that could be included in this new definition. As an exercise, contributors each took a shot at writing a definition for p5.js. The rest of the working group time was dedicated to the collaborative editing of statements. The document can be found here: [p5.js Community Statement , Access Statement Working Doc](https://docs.google.com/document/d/1Yno4QOf30wv8FcItu78_LkcHlVYHgl0LZEM2tz6BUZ4/edit).
 
 
 ---
@@ -70,7 +76,7 @@ Additionally, the group also had a share-out session on the topic “p5.js is…
 
 ### **Open Source Software Translation**
 
-**Led by **Alm Chung, Kenneth Lim
+**Led by** Alm Chung, Kenneth Lim
 
 **Reference Documents**
 
@@ -95,10 +101,10 @@ The group reflected on the process of translating documents for the Processing F
 
 ### **p5.js GitHub Issues**
 
-**Led by **Alm Chung, Kenneth Lim, Dave Pagurek
+**Led by** Alm Chung, Kenneth Lim, Dave Pagurek
 
 **Reference Documents**
-
+* [p5.js Issue / Pull Request Tracking Guideline](https://docs.google.com/document/d/1bJBysHudrtX8tgA7I5DQjWBgMuFR1KrzlGlOu3CC52M/edit)
 
 
 [Alm (Alice) Chung](https://almchung.github.io/), [Kenneth Lim](https://limzykenneth.com/), and [Dave Pagurek](https://www.davepagurek.com/) led the discussion on the current p5.js issue workflow, ways for better Pull Request tracking, and code documentation.
@@ -112,7 +118,7 @@ The discussion opened by identifying the current structure of the p5.js issue re
 
 OpenFramework documentation tab provides a thorough guide about code for various topics
 
-The group reviewed the   draft by Qianqian Ye to set “clear expectations for contributors/stewards/project leads working on issues and pull requests.” The document is open for community input and surveys about the timeline for issue filing. Other ideas that were brought up include developing a Youtube series on how to file issues and write unit tests, and building a template for website design changes.
+The group reviewed the [p5.js Issue / Pull Request Tracking Guideline](https://docs.google.com/document/d/1bJBysHudrtX8tgA7I5DQjWBgMuFR1KrzlGlOu3CC52M/edit) draft by Qianqian Ye to set “clear expectations for contributors/stewards/project leads working on issues and pull requests.” The document is open for community input and surveys about the timeline for issue filing. Other ideas that were brought up include developing a Youtube series on how to file issues and write unit tests, and building a template for website design changes.
 
 
 ---
@@ -120,7 +126,7 @@ The group reviewed the   draft by Qianqian Ye to set “clear expectations for c
 
 ### **Reducing Barriers to Entry for Learning**
 
-**Led by **Dave Pagurek
+**Led by** Dave Pagurek
 
 [Dave Pagurek](https://www.davepagurek.com/)–WebGL Steward for p5.js, led a discussion on ways p5.js can reduce their barrier to entry for learning. Pagurek shares their passion for this topic due to their experience with WebGL as shaders are “notoriously hard to jump into, and knowing when to use which tool (framebuffers, p5.Geometry, etc) requires a lot of background knowledge.” Pagurek shares their hope to provide more guided tutorials, encourage more tutorial contributors, or create a modified API system.
 
