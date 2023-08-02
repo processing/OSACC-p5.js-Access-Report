@@ -33,8 +33,12 @@ The 2023 OSSACC in Denver, Colorado was a project of the Clinic for Open Source 
  * Tsige Tafesse
 
 #### Report Authors:
- * Qianqian Ye
- * Karen Abe
+ * [Qianqian Ye](http://qianqianye.com)
+ * [Karen Abe](http://karenabe.com)
+
+This document is released under a Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0).
+
+![Image description:](../0-images/by-sa_small.png)
 
 ## iv. Sponsors
 The 2023 OSSACC in Denver, Colorado was made possible by an award from the National Endowment for the Arts, Community Building Award from Mozilla, and funding from the Processing Foundation..
