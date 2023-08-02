@@ -38,9 +38,20 @@ The 2023 OSSACC in Denver, Colorado was a project of the Clinic for Open Source 
 
 This document is released under a Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0).
 
-![Image description:](../0-images/by-sa_small.png)
+![CC BY-SA 4.0](0-images/by-sa_small.png)
 
 ## iv. Sponsors
-The 2023 OSSACC in Denver, Colorado was made possible by an award from the National Endowment for the Arts, Community Building Award from Mozilla, and funding from the Processing Foundation..
+The 2023 OSSACC in Denver, Colorado was made possible by an award from the National Endowment for the Arts, Community Building Award from Mozilla, and funding from the Processing Foundation.
+
+![Image description: logo for the National Endowment for the Arts](0-images/credits-artsgov.jpeg)
+![Image description: black logo for the mozilla](0-images/credits-mozilla.png)
+![Image description: white background and pueple logo for the Processing Foundation](0-images/credits-processing.png)
 
 And was realized with the support from: Open Source with SLU, BUTTER, NYU IDM, NYU ITP, UAL: creative computing institute, UC San Diego, PUCE, USC Cinematic Arts MA+P.
+
+![Image description: a collage of logo for open source with SLY, BUTTER, NYU IDM and NYU ITP.](0-images/credits-1.png)
+![Image description: logo for UAL: creative computing institute. ](0-images/credits-ual.png)
+![Image description: logo for UC San Diego.](0-images/credits-ucsd.png)
+![Image description: logo for PUCE.](0-images/credits-puce.png)
+![Image description: logo for USC Cinematic Arts MA+P.](0-images/credits-map.png)
+
