@@ -1,5 +1,7 @@
 ## EVENT ORGANIZATION
 
+![Image description: Approximately 70 people in front of a building posing with silly body gestures and faces](../0-images/group-silly.jpeg)
+
 **PARTICIPANTS**
 
 The participants in this gathering were chosen based on various factors, such as their historical connections to the tools, unique and under-represented perspectives, valuable background experiences, industry insights, and pedagogic expertise.
@@ -7,6 +9,8 @@ The participants in this gathering were chosen based on various factors, such as
 Throughout this gathering and report, we utilize the term "contributor" instead of "developer" to encompass a wide array of roles involved in OSSTAs. These contributions go beyond software development and encompass activities like translation, documentation, teaching, graphic design, illustration, writing, organizing, and curating. 
 
 With an open-call style application, OSACC hosted 70 attendees from ___ cities. As the conference was hosted in Denver, Colorado, costs such as transportation and hotel accommodation for participants were supported by National Endowment for the Arts, Community Building Award from Mozilla, the Processing Foundation, and many individual programs. We acknowledge that access and inclusion is an ever-evolving effort, hence, it is important to recognize the limitations including the reach of marketing, finances, and schedules of the diverse contributors and toolkits out there.
+
+![Image description: Approximately 10 people surrounding two tables of different heights, some people sitting while others sitting](../0-images/seating.jpeg)
 
 **PHYSICAL SPACE & FOOD ACCOMMODATIONS**
 
@@ -19,6 +23,9 @@ As OSACC provided food services including breakfast, lunch, dinner, and snacks, 
 With a unified communication platform–Discord, participants were able to get onboard pre-conference, receive live announcements, and stay connected virtually even after the event. The platform housed various “channels,” which allow space for discussion on different interest topics, social conversations, and planning of physical meet-ups. Channels such as “introduction” and “archive” allowed participants to freely upload photos and video content to share with others and contribute to the documentation of the event.
 
 The [opensourceart.cc](https://opensourceart.cc) website also served as a warehouse of information including scheduling, transportation details, and the conference code of conduct. Consolidating conference information on one website allowed attendees to easily access and navigate information to prepare and stay on track.
+
+![Image description: 5 people sitting in an arch, some people listening to some one on the left, some on their computer taking notes.](../0-images/unconference1.jpeg)
+
 
 **UNCONFERENCE STYLE CONFERENCING**
 
