@@ -16,7 +16,7 @@ Notes organized by Rachel Lim
 * [What It Means to Be a Contributor, and How to Contribute to Open Source Projects](#what-it-means-to-be-a-contributor-and-how-to-contribute-to-open-source-projects)
 * [Critiques of Dominant Technology](#critiques-of-dominant-technology)
 * [Teaching Students with Different Technical Backgrounds + Teaching Code in a Creative Context: Art and Design Classes](#teaching-students-with-different-technical-backgrounds-+-teaching-code-in-a-creative-context:-art-and-design-classes)
-* [Teaching Hardware/Digital Fabrication in a Creative Context: Art and Design Classes](#teaching-hardware/digital-fabrication-in-a-creative-context:-art-and-design-classes)
+* [Teaching Hardware/Digital Fabrication in a Creative Context: Art and Design Classes](#teaching-hardware%2Fdigital-fabrication-in-a-creative-context:-art-and-design-classes)
 * [Community Practices and Alternative Approaches to Technology](#community-practices-and-alternative-approaches-to-technology)
 * [Education as Job Training Vs. Education as an End in Itself](#education-as-job-training-vs.-education-as-an-end-in-itself)
 * [Resources](#resources)
