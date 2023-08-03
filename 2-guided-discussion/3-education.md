@@ -42,14 +42,11 @@ Finally, the discussion ended with representatives from each group sharing what 
 Displayed below are images of the notepad showing examples of the voting and documentation process. 
 
 
-![alt_text](images/image1.png "image_tooltip")
-
-
-ID: Screenshot of the Education Discussion notes displaying the voting process, which was done by adding a plus sign next to a subtopic. 
+![Image description: Screenshot of the Education Discussion notes displaying the voting process, which was done by adding a plus sign next to a subtopic. ](../0-images/edu-notes.png)
 
 
 
-ID: Gif of someone scrolling through the discussion notes in the shared live notepad. 
+![Image description:  Gif of someone scrolling through the discussion notes in the shared live notepad. ](../0-images/edu-scroll.gif)
 
 Below are discussion summaries from four groups.
 
@@ -64,10 +61,9 @@ An overarching question that directed this discussion was: How to make contribut
 To answer this, the group started to discuss why a contributor might hesitate to get involved and what the barriers to open-source contribution were. Some speculated or shared from personal experience that it was overwhelming to navigate Github’s interface, which makes it difficult to pinpoint suitable issues to take on or find necessary templates and documentation. They also found the contribution and testing process for a software’s graphical or front-end components to be confusing, because it often required finding designs, creating them if they didn’t exist yet, and working with different testing frameworks that varied depending on the project. Some also felt reluctant to contribute to code out of fear of making irrevocable changes. 
 
 
-![alt_text](images/image2.png "image_tooltip")
+![Image description:Screenshot of the p5.js repository on Github and its complex interface, with several layers of navigation surrounding the file directory.](../0-images/edu-git.png)
 
-
-ID: Screenshot of the p5.js repository on Github and its complex interface, with several layers of navigation surrounding the file directory. 
+ 
 
 The group also probed this issue from the maintainer’s perspective, where some of them shared that it required a sizable amount of dedicated effort and time to create accessible pathways and space for new contributors. Some of these efforts included pruning issues to a state where someone outside of the project could handle it and deciding when should the decision-making and resolving issues for a project be done by the community vs. the core team. 
 
@@ -88,10 +84,8 @@ The first few questions this group decided to address in order to discuss this t
 The next important question to answer was: “who is technology happening to”, or who are the people that it affects? The group expanded on how it affects nearly all of us—the ubiquitous presence of dominant technologies defines our realities and shapes our behaviors, which is sustained by an almost natural inclination to turn to our current tools as solutions. They cited Bret Victor’s talk, “[The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)”, which warns against falling into these patterns and assumptions by advising people to never assume knowledge, particularly towards computing and programming, in order to stay freely creative and engaged. 
 
 
-![alt_text](images/image3.png "image_tooltip")
+![Image description:Screenshot of the SFPC landing page, which displays some Fall 2023 courses they are providing.](../0-images/edu-sfpc.png)
 
-
-ID: Screenshot of the SFPC landing page, which displays some Fall 2023 courses they are providing. 
 
 The group began to explore how to combat this by emphasizing the education of alternative histories, speculative design, and learning for knowledge over career skills. They felt it was important to create spaces for imagining what their futures and technologies could look like, and to empower and encourage others to learn how to build their own tools instead of relying on pre-existing ones to counter dominant technologies. Near the end of the discussion, everyone acknowledged their anxieties about the current status of dominant technology, and shared a few online and physical spaces that provided support: [SPFC](https://sfpc.study/), [EFF](https://www.eff.org/), book clubs, small communities of care, and the podcast “[This Machine Kills](https://www.patreon.com/thismachinekills)”. 
 
@@ -108,10 +102,9 @@ To workaround those issues, others suggested dividing students into smaller grou
 Some also noted that they observed significant coding progress from their students when they were driven to accomplish a goal. For example, designers within their class appeared to be more interested in learning the application of programming and its functionalities, rather than its theory or fundamentals. With this in mind, they proposed that catering the curriculum to the students’ interests and changing the approach to equip students with basic fundamentals and aptitude to instruct themselves could be effective as well. Some examples of this that were discussed are: teaching an overview of programming basics without the lens of a specific language, providing examples tailored to the various goals of the students and showing them how to interpret it, and encouraging students to experiment and be comfortable with working without complete knowledge. 
 
 
-![alt_text](images/image4.png "image_tooltip")
+![Image description:Screenshot of an example project within Scratch’s code editor.](../0-images/edu-scratch.png)
 
 
-ID: Screenshot of an example project within Scratch’s code editor.
 
 The discussion ended touching on the pros and cons of [Scratch](https://scratch.mit.edu/), which is a block-based visual programming language and platform that’s popularly used as an educational tool to teach K-12 students programming. Some felt that Scratch can create an appreciation for structure, but might weigh down students who do not frequently plan to use programming for their projects. Identifying these issues led the group to return to the beginning of the discussion, where they reiterated how working at different paces for different groups of students could be challenging and how coding can be intimidating because of how new or obscure some of its terms or mathematical concepts could be. 
 
@@ -134,10 +127,8 @@ This discussion began with identifying the challenges of teaching hardware and d
 Due to these intricacies and the need to teach multiple tools and languages, some voiced that it felt difficult to use teaching methods that are often employed when instructing one programming language. They also felt that being successful in this space often entailed strong, independent information retrieval skills, which could be difficult to develop or teach because oftentimes the relevant documentation is difficult to parse through. Although there could be better alternatives to the machines and hardware that are currently used, the group felt that they gravitate towards those platforms because they hold the most resources. For example, although Arduinos are slower and more expensive than other microcontrollers, it has many more resources and forms of support. The financial support from the school and department was identified as another pain point, since the students’ out of pocket costs for the tools and materials were partially contingent on how the department viewed the course (e.g. is this a core requirement or an elective). 
 
 
-![alt_text](images/image5.png "image_tooltip")
+![Image description:Example of a school’s makerspace with different tools, hardware, and students. Photo by [Fabrice Florin](https://www.flickr.com/photos/fabola/22547967539).](../0-images/edu-fab.png)
 
-
-ID: Example of a school’s makerspace with different tools, hardware, and students. Photo by [Fabrice Florin](https://www.flickr.com/photos/fabola/22547967539). 
 
 With the challenges identified, the group decided to provide space for any questions they’d like to discuss before continuing with the discussion. Some questions and opportunities they shared were: 
 
@@ -165,16 +156,15 @@ For tool combinations, some shared that they used: [Arduino](https://www.arduino
 This discussion was focused on how to bridge the widening gap between being a consumer using technology and using technology creatively. It started by naming different forms of technology outside of the commonly assumed scope, such as: toys that introduce programmatic thinking (i.e the [Code-A-Pillar](https://www.walmart.com/ip/Fisher-Price-Think-Learn-Code-a-pillar/49532843)), [AI Weirdness](https://www.aiweirdness.com/), [Esolangs and alternative ways code can look](https://esoteric.codes/blog/jon-corbett), and viewing community itself as a type of organizational and building technology. 
 
 
-![alt_text](images/image6.jpg "image_tooltip")
+![Image description: Jon Corbett’s languages, Cree# and Ancestral Codes, within a code editor.](../0-images/edu-jcl.jpeg)
 
 
-ID: Jon Corbett’s languages, Cree# and Ancestral Codes, within a code editor.
 
 
-![alt_text](images/image7.jpg "image_tooltip")
+![Image description: Fisher Price’s Code-a-Pillar toy, which helps teach toddlers block-based programming fundamentals. .](../0-images/edu-fisher.jpeg)
 
 
-ID: Fisher Price’s Code-a-Pillar toy, which helps teach toddlers block-based programming fundamentals. 
+
 
 With some examples identified, the group then explored how they could decentralize approaches to how people learned about technology. They noted that instructing through different mediums (i.e learning coordinate geometry through weaving) and treating teaching itself as a technology to implement non-hierarchical structures and inviting exploration/play were vital, as well as encouraging others to question and ideate on what alternative technology could look like. Some questions that were raised were: What are expanded definitions of technology? How does technology’s current definition create hierarchies? What would technologies that aren't oppressive to our identities, bodies, and livelihoods look like? Where does code exist away from screens and syntax? 
 
@@ -195,10 +185,10 @@ With these questions in mind, the group began to explore how to create accessibl
 The discussion of different forms of support and resources students could find led to questions of whether [ChaptGPT](https://chat.openai.com/auth/login) could be a new pivotal one, like [Stack OverFlow](https://stackoverflow.com/), and how useful are AI tools in general for novices and experts. Although AI tools could potentially be helpful for brainstorming and presenting different approaches to a problem, the group felt concerned about how to instruct students to recognize when tools like ChaptGPT are wrong, and how to encourage them to be proactive about it. 
 
 
-![alt_text](images/image8.png "image_tooltip")
+![Image description: A colorful website from the pre-professionalization era of web design in the 1990s. .](../0-images/edu-color.png)
 
 
-ID: A colorful website from the pre-professionalization era of web design in the 1990s. 
+
 
 The group ended the discussion pinpointing some actions they could currently take to start addressing their concerns and working towards their desires. Some suggestions were: 
 
