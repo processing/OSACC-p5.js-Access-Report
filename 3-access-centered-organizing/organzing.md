@@ -24,8 +24,8 @@ With a unified communication platform–Discord, participants were able to get o
 
 The [opensourceart.cc](https://opensourceart.cc) website also served as a warehouse of information including scheduling, transportation details, and the conference code of conduct. Consolidating conference information on one website allowed attendees to easily access and navigate information to prepare and stay on track.
 
-![Image description: 5 people sitting in an arch, some people listening to some one on the left, some on their computer taking notes.](../0-images/unconference1.jpeg)
-
+![Image description: Conference participants doing a group stretch, people at tables with hands in the air.](../0-images/stretches.jpeg)
+A group stretch sesion was led with stretches inspired by creative coding terms. These stretches were ideated with the use of chat.gpt.
 
 **UNCONFERENCE STYLE CONFERENCING**
 
