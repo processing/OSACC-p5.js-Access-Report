@@ -34,7 +34,7 @@ Below is the [NotePad](http://docs.clinicopensourcearts.org/p/future-thinking) w
 
 
 
-![Image description: GIF screen capture scrolling through notes taken during the discussion, rows of colorful highlighted text..](../0-images/ai-document-scroll.gif)
+![Image description: GIF screen capture scrolling through notes taken during the discussion, rows of colorful highlighted text.](../0-images/ai-document-scroll.gif)
 
 Below are discussion summaries from four groups.
 
