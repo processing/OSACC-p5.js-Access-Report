@@ -16,17 +16,21 @@ We recognize that there are many more toolkits, contributors, and perspectives t
 
 We offer our deepest gratitude to the participants of the convening, and the many, many other contributors to these toolkits, without whom, the field of art and technology would not exist. 
 
+![Image description: People at a conference facing the front, a person with presenting projected slides reading "Why translate documentation?". Photo by Chris Coleman](0-images/translation-chris.png)
+
 ## ii. Takeaways
 We summarized serveral takeaways from the p5.js working groups and guided discussions. The takeaways here focus on suggestions to increase access to OSSTA.
 
 More takeaways will be added shortly.
+
+![Image description: A group of people around a table, with laptops open and everyone listening intently. Photo by Chris Coleman](0-images/discussion-chris.jpeg)
 
 ## iii. Credits
 The 2023 OSSACC in Denver, Colorado was a project of the Clinic for Open Source Arts (COSA) and the Processing Foundation.
 
 #### Event Co-Organizers:
  * [Chris Coleman](https://digitalcoleman.com/)
- * [Kate Hollenbach](https://www.katehollenbach.com/)_
+ * [Kate Hollenbach](https://www.katehollenbach.com/)
  * [Qianqian Ye](http://qianqianye.com)
  * [Shawné Michaelain Holloway](https://shawnemichaelainholloway.com/)
  * Xin Xin
