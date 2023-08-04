@@ -33,8 +33,8 @@ The 2023 OSSACC in Denver, Colorado was a project of the Clinic for Open Source 
  * [Kate Hollenbach](https://www.katehollenbach.com/)
  * [Qianqian Ye](http://qianqianye.com)
  * [Shawné Michaelain Holloway](https://shawnemichaelainholloway.com/)
- * Xin Xin
- * Tsige Tafesse
+ * [Xin Xin](https://xin-xin.info/)
+ * [Tsige Tafesse](https://www.linkedin.com/in/tsige/)
 
 #### Report Authors:
  * [Qianqian Ye](http://qianqianye.com)
