@@ -10,10 +10,21 @@ This report is currently work in progress.
 * iv. [**Sponsors**](#v-sponsors)
 
 1. [**p5.js Working Group**](working-group.md)
-2. [**Guided Discussion**]
+2. [**Guided Discussion**](/2-guided-discussion)
    * [Access](1-access-guided-discussion.md)
    * [Future Thinking/AI](2-future-thinking-ai-guided-discussion.md)
    * [Education](3-education-guided-discussion.md)
+4. [**Access Centered Organizing**](organizing.md)
+5. [**Reflection**](/4-reflection)
+   * [By Caleb Foss](reflection-by-caleb-foss.md)
+   * [By Dave Pagurek](reflection-by-dave-pagurek.md)
+   * [By Kenneth Lim](reflection-by-kenneth-lim.md)
+   * [By Munus Shih](reflection-by-munus-shih.md)
+   * [By Nat Decker](reflection-by-nat-decker.md)
+   * [By Rachel Lim](reflection-by-rachel-lim.md)
+   * [By Raphaël de Courville Foss](reflection-by-raphaël-de-courville.md)
+   * [By Sammie Veeler](reflection-by-sammie-veeler.md)
+   * [By Tristan Espinoza](reflection-by-tristan-espinoza.md)
 
 
 ## i. Overview
