@@ -22,7 +22,7 @@ This report is currently work in progress.
    * [By Munus Shih](reflection-by-munus-shih.md)
    * [By Nat Decker](reflection-by-nat-decker.md)
    * [By Rachel Lim](reflection-by-rachel-lim.md)
-   * [By Raphaël de Courville](reflection-by-raphaël-de-courville.md)
+   * [By Raphaël de Courville](reflection-by-raphael-de-courville.md)
    * [By Sammie Veeler](reflection-by-sammie-veeler.md)
    * [By Tristan Espinoza](reflection-by-tristan-espinoza.md)
 
