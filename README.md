@@ -6,8 +6,8 @@ This report is currently work in progress.
 
 * i. [**Overview**](#i-overview)
 * ii. [**Takeaways**](#ii-takeaways)
-* iii. [**Credits**](#iv-credits)
-* iv. [**Sponsors**](#v-sponsors)
+* iii. [**Credits**](#iii-credits)
+* iv. [**Sponsors**](#iv-sponsors)
 
 1. [**p5.js Working Group**](1-p5.js-working-group/working-group.md)
 2. [**Guided Discussion**](/2-guided-discussion)
