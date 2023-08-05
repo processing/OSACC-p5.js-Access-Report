@@ -8,7 +8,7 @@ The participants in this gathering were chosen based on various factors, such as
 
 Throughout this gathering and report, we utilize the term "contributor" instead of "developer" to encompass a wide array of roles involved in OSSTAs. These contributions go beyond software development and encompass activities like translation, documentation, teaching, graphic design, illustration, writing, organizing, and curating. 
 
-With an open-call style application, OSACC hosted 70 attendees from ___ cities. As the conference was hosted in Denver, Colorado, costs such as transportation and hotel accommodation for participants were supported by National Endowment for the Arts, Community Building Award from Mozilla, the Processing Foundation, and many individual programs. We acknowledge that access and inclusion is an ever-evolving effort, hence, it is important to recognize the limitations including the reach of marketing, finances, and schedules of the diverse contributors and toolkits out there.
+With an open-call style application, OSACC hosted 70 attendees from multiple continents. As the conference was hosted in Denver, Colorado, costs such as transportation and hotel accommodation for participants were supported by National Endowment for the Arts, Community Building Award from Mozilla, the Processing Foundation, and many individual programs. We acknowledge that access and inclusion is an ever-evolving effort, hence, it is important to recognize the limitations including the reach of marketing, finances, and schedules of the diverse contributors and toolkits out there.
 
 ![Image description: Approximately 10 people surrounding two tables of different heights, some people sitting while others sitting](../0-images/seating.jpeg)
 
