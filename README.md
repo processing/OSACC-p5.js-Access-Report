@@ -79,7 +79,7 @@ The 2023 OSSACC in Denver, Colorado was a project of the Clinic for Open Source 
  * [Qianqian Ye](http://qianqianye.com)
  * [Karen Abe](http://karenabe.com)
 
-This document is released under a Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0).
+This report is inspired by the [OSSTA Report](https://github.com/CreativeInquiry/OSSTA-Report) authored by Lauren Lee McCarthy, Tom Hughes, and Golan Levin. This document is released under a Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0).
 
 ![CC BY-SA 4.0](0-images/by-sa_small.png)
 
