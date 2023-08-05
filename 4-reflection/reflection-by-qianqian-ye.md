@@ -1,0 +1,12 @@
+## OSACC Reflection
+p5.js Lead, Qianqian Ye
+
+I attended the [2019 p5.js contributor conference](https://p5js.org/community/contributors-conference-2019.html) at CMU. It was my first time meeting people I had previously interacted with on p5.js GitHub repositories, and it was amazing to see how online communities can come together in the real world. I started leading p5.js during the pandemic, and I've been really craving face-to-face meetings with the p5.js community. So when Chris invited me to co-organize OSACC in June, 2022, I immediately said yes. Ten months and more than 20 organizing meetings later, we brought around 75 contributors across different open source art projects and continents to Denver. 
+
+During the conference, the p5.js project aimed to continue our focus on access, a topic we had decided on collectively back in 2019. I led the Guided Discussion on Access, along with Nat Decker, Bobby Joe Smith III, and Sammie Veeler. It was an hour-long discussion where we talked about Accessible Open Source Software, Web Accessibility, Data Sovereignty + Community Access, Creative Access, and Access and Education. We took [notes](https://pad.riseup.net/p/Access_-_OSACC_Guided_Discussion_%231) collectively and created a [summary](https://docs.google.com/document/d/11GpvFcTqkbCiM6wGIvInhO95KL0UQE05s2LVq6D780g/edit?usp=sharing) that we could share.
+
+We also had various p5.js groups working on different aspects of the project. Evelyn Masso led the group to update the p5.js Access Statement, p5.js Community Statement, and p5.js Code of Conduct. Kenneth Lim and Dave Pagurek formed a group to review and address some p5.js GitHub Issues, aiming to make it more beginner-friendly. Alm Chung and Kenneth Lim organized a conversation about translating open source software, using p5.js as a case study. We even had a meet and greet session for mentors taking part in this year's Google Summer of Code program, which p5.js is a part of.
+
+Software projects often appear faceless, concealing the individuals behind them. However, behind every open source project, there are real people who may be feeling burned out, lost, or anxious. That's why events like OSACC, where we can all come together in person, feel like warm hugs that last a long time.
+
+(I am writing this reflection on the first day of participating [DWeb Camp](https://dwebcamp.org/), which gave me a lot of flashbacks of OSACC).
