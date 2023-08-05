@@ -1,8 +1,6 @@
 ## OSACC Reflection
 Raphaël de Courville
 
-_“If you are able to take 15 minutes to provide a brief summary of what the Processing Foundation accomplished or got out of OSACC that would be EXTREMELY helpful. You were one of the biggest teams at the conference so how did PF use their time/the provided work sessions? A short paragraph or even just a bullet point list of what your team did (what other meetings, work, or networking did you do?), and any top of mind reflections on the value of the conference would be really helpful to COSA for current reporting and future grant writing purposes.” - Greg J. Smith_
-
 The time and resources provided by OSACC facilitated targeted work sessions, cross-pollination of ideas, and networking, all of which contributed to the future developments of the Processing Foundation's software projects and the building of our community.
 
 
