@@ -21,6 +21,7 @@ This report is currently work in progress.
    * [By Kenneth Lim](4-reflection/reflection-by-kenneth-lim.md)
    * [By Munus Shih](4-reflection/reflection-by-munus-shih.md)
    * [By Nat Decker](4-reflection/reflection-by-nat-decker.md)
+   * [By Qianqian Ye](4-reflection/reflection-by-qianqian-ye.md)
    * [By Rachel Lim](4-reflection/reflection-by-rachel-lim.md)
    * [By Raphaël de Courville](4-reflection/reflection-by-raphaël-de-courville.md)
    * [By Sammie Veeler](4-reflection/reflection-by-sammie-veeler.md)
