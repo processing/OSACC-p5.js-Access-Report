@@ -1,5 +1,5 @@
 # p5.js Access Report at Open Source Arts Contributors Conference (OSACC) 
-This report is currently work in progress.
+
 ![Image description: Approximately 70 people standing or sitting at front of a building smiling.](0-images/group-chris.jpeg)
 
 ## Table of Contents
