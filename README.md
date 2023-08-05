@@ -1,6 +1,21 @@
 # p5.js Access Report at Open Source Arts Contributors Conference (OSACC) 
 This report is currently work in progress.
 ![Image description: Approximately 70 people standing or sitting at front of a building smiling.](0-images/group-chris.jpeg)
+
+## Table of Contents
+
+* i. [**Overview**](#i-overview)
+* ii. [**Takeaways**](#ii-takeaways)
+* iii. [**Credits**](#iv-credits)
+* iv. [**Sponsors**](#v-sponsors)
+
+1. [**p5.js Working Group**](working-group.md)
+2. [**Guided Discussion**]
+   * [Access](1-access-guided-discussion.md)
+   * [Future Thinking/AI](2-future-thinking-ai-guided-discussion.md)
+   * [Education](3-education-guided-discussion.md)
+
+
 ## i. Overview
 We are thrilled to share this report documenting a convening of the Open Source Arts Contributor’s Conference (OSACC), organized by Chris Coleman, Kate Hollenbach, Qianqian Ye, Shawné Michaelain Holloway, Xin Xin, and Tsige Tafesse in Denver, Colorado on April 13-15, 2023.
 
