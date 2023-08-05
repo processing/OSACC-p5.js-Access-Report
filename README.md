@@ -14,7 +14,7 @@ This report is currently work in progress.
    * [Access](/2-guided-discussion/1-access-guided-discussion.md)
    * [Future Thinking/AI](/2-guided-discussion/2-future-thinking-ai-guided-discussion.md)
    * [Education](/2-guided-discussion/3-education-guided-discussion.md)
-4. [**Access Centered Organizing**](3-access-centered-organizing/organizing.md)
+4. [**Access Centered Organizing**](3-access-centered-organizing/organzing.md)
 5. [**Reflection**](/4-reflection)
    * [By Caleb Foss](4-reflection/reflection-by-caleb-foss.md)
    * [By Dave Pagurek](4-reflection/reflection-by-dave-pagurek.md)
