@@ -25,6 +25,7 @@
    * [By Rachel Lim](4-reflection/reflection-by-rachel-lim.md)
    * [By Raphaël de Courville](4-reflection/reflection-by-raphaël-de-courville.md)
    * [By Sammie Veeler](4-reflection/reflection-by-sammie-veeler.md)
+   * [By Tanvi Sharma](4-reflection/reflection-by-tanvi-sharma.md)
    * [By Tristan Espinoza](4-reflection/reflection-by-tristan-espinoza.md)
 
 
