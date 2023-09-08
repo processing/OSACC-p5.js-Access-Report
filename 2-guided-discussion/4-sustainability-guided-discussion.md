@@ -32,7 +32,7 @@ The subtopic discussion aimed to leave room for everyone to speak. The groups we
 Below is the [NotePad](http://docs.clinicopensourcearts.org/p/OSACC_Sustainability) with notes taken during the discussion:
 
 
-![Image description: GIF screen capture scrolling through notes taken during the discussion, rows of colorful highlighted text.](images/image1.gif "image_tooltip")
+![Image description: GIF screen capture scrolling through notes taken during the discussion, rows of colorful highlighted text.](../0-images/sus-doc.gif)
 Below are discussion summaries from five groups.
 
 
@@ -46,7 +46,7 @@ The “Sustaining Contribution” discussion allowed participants to reconsider 
 The discussion started with defining what a contributor is. The group identified that a contributor is anyone who helps a project move a step forward, which can come in various forms from code, translation, writing, and so on. Participants highlighted the need for “contributors” to be defined in the Code of Conduct as there is uncertainty between “recognition” and “contribution.” Referring to Kate Crawford’s “Atlas of AI” it is important to recognize the role of countless others who bring software and tools alive including the laborers involved with lithium mining, custodians, and caretakers who all contribute to pushing tech and software-related projects forward. As participants were pushed to ponder about “who has the privilege to contribute,” they were encouraged to consider ways to lower the barrier to contribution in their open-source projects.
 
 
-![Image description: A white background screenshot with thin grey text, the title reading “Source code Contribution” in red.](images/image2.png "image_tooltip")
+![Image description: A white background screenshot with thin grey text, the title reading “Source code Contribution” in red.](../0-images/sus-contributor.png)
 
 
 The p5.js Contributor Docs outline ways one can become a contributor.
@@ -80,7 +80,7 @@ The discussion started with each participant sharing their personal experience w
 In a conversation about assessing and transitioning leadership, Qianqian Ye– current p5.js lead, highlighted the importance of “assessing invisible labor when evaluating candidates” since loud and more visible candidates may be unconsciously favored. As open-source projects are usually dependent on fluctuating forms of funding, transparency about project finances is important in preparing the incoming leadership. For the person leaving, [Lauren Lee McCarthy](https://lauren-mccarthy.com/)– creator of p5.js, shared their experience of passing on a leadership role. McCarthy described how they wrote an open letter describing their “aspirations” for the organization along with projects they are okay to “sunset” depending on funding. Reflecting on their own experience, Ye mentions the importance of easing pressure on the incoming person. Ye highlights how accepting how “open source means being comfortable with messiness” has helped them navigate the transition. Upon listening to each participant’s story, the group agreed that the onboarding process should be as easy as the offboarding process.
 
 
-![Image description: A screenshot of a white background website titled “Making Space for the Future of p5.js" with a photo of a group of people posing in the center of the article.](images/image3.png "image_tooltip")
+![Image description: A screenshot of a white background website titled “Making Space for the Future of p5.js" with a photo of a group of people posing in the center of the article.](../0-images/sus-medium.png)
 
 
 A letter to the public published by Lauren Lee McCarthy on [Medium](https://medium.com/processing-foundation/making-space-for-the-future-of-p5-js-d3c6bd3da9ac).
@@ -96,7 +96,7 @@ The “Sustaining Funding” discussion centered on the participant’s experien
 The discussion started with participants sharing their individual experiences with funding, grants, and resources they utilized to sustain their projects and initiatives. Grant references ranged from national foundations, donation-based funding, and academic institutions. One participant shared their experience using crowdfunding platforms such as Kickstarter and the issue of taxes placed on that income. Organizations such as NEWINC were referenced as there are communities and organizations designed to help non-profits build stronger business plans. As participants exchanged tips on the grant writing process, they highlighted the power of becoming a non-profit to boost eligibility for grants. In terms of grant writing, some participants suggested applying for grants to tackle specific projects instead of infrastructure building.
 
 
-![Image description: A screenshot of a white background webpage with the bold NEWINC logo on the top left and the article title reading “Program Overview.”](images/image4.png "image_tooltip")
+![Image description: A screenshot of a white background webpage with the bold NEWINC logo on the top left and the article title reading “Program Overview.”](../0-images/sus-new.png)
 
 
 NEWINC– an incubator for people working at the intersection of art, design, and technology, providing programs for the community.
@@ -136,7 +136,7 @@ Participants started by sharing their individual experiences of getting involved
 When discussing a scenario where a contributor causes a violation, participants brainstormed strategies for intervention. The group identified the importance of a Code of Conduct to be able to reference during an intervention and ensure that the Code of Conduct is presented during the onboarding process to be understood as a document beyond just “terms and conditions.” One participant highlighted how “no one person's contributions are important enough to justify harms to other members of the community.” Additionally, when considering the re-entrance of an offender into the community, the group agreed that it should be “contingent on the approval of the people who were initially harmed.”
 
 
-![Image description: A screenshot of a white background webpage with black title “Code of Conduct” and underneath, “WHY DO WE HAVE A CODE OF CONDUCT?”](images/image5.png "image_tooltip")
+![Image description: A screenshot of a white background webpage with black title “Code of Conduct” and underneath, “WHY DO WE HAVE A CODE OF CONDUCT?”](../0-images/sus-coc.png)
 
 
 The Code of Conduct utilized for OSACC. These terms were reviewed at the start of the conference and also sent out to participants prior to the conference for review.
@@ -159,7 +159,7 @@ In considering the power dynamics of “owners” versus “maintainers,” the 
 When reimaging the organizational structures of maintenance work, the group looked into examples of existing systems. One participant working on ml5.js shared how they utilize a maintenance system that allows an “owner” to “connect current contributors to previous contributors and thereby orchestrate decision making in a sensible/informed way.” This led to reimaging a “Middlewareperson” position where a designated person moderates communication between contributors, project leads, and directors. With the existence of this “Middlewareperson,” participants found that violators of the code of conduct can also be better handled. In reimagining this new role, participants pointed out how compensation or funding for the position is needed. Ideas for building a “Coalition of Creative Code Maintainers” were brought up to provide a shared space for the maintainer community.
 
 
-![Image description: A screenshot of a white background webpage with a circular MAINTAINERS ogo at the top and sketch of “DIY Plumbing” in the center.](images/image6.png "image_tooltip")
+![Image description: A screenshot of a white background webpage with a circular MAINTAINERS ogo at the top and sketch of “DIY Plumbing” in the center.]((../0-images/sus-maintainer.png)
 
 
 Communities like the Maintainers connect, “build and support communities that can create and support change, as well as promoting a maintenance mindset.”
