@@ -33,6 +33,8 @@ Below is the [NotePad](http://docs.clinicopensourcearts.org/p/OSACC_Sustainabili
 
 
 ![Image description: GIF screen capture scrolling through notes taken during the discussion, rows of colorful highlighted text.](../0-images/sus-doc.gif)
+
+
 Below are discussion summaries from five groups.
 
 
